@@ -1,0 +1,23 @@
+﻿Commune,Avg_Distance_km,Tram_Stations,Population,Catégorie,Priorité
+Anfa,9.63,8,118056.88,Périphérie éloignée,🟡 Moyenne
+Sidi Maarouf,9.29,0,30627.0,Périphérie éloignée,🔴 Haute
+Echchallalate,8.6,0,153118.0,Périphérie éloignée,🔴 Haute
+Ain Sebaa,6.73,22,147102.61,Zone intermédiaire,🟡 Moyenne
+El Maarif,6.63,24,184958.09,Zone intermédiaire,🟡 Moyenne
+Sidi Bernoussi,6.33,6,151863.91,Zone intermédiaire,🟡 Moyenne
+Sidi Moumen,6.11,14,117839.0,Zone intermédiaire,🟡 Moyenne
+Ahl Laghlam,6.01,0,22926.0,Zone intermédiaire,🟡 Moyenne
+Hay Hassani,5.92,20,140728.03,Zone intermédiaire,🟢 Faible
+Sidi Belyout,5.78,14,175098.14,Zone intermédiaire,🟢 Faible
+Lissasfa,5.59,2,44568.29,Zone intermédiaire,🟢 Faible
+Mers Sultan,5.15,4,128165.34,Zone intermédiaire,🟢 Faible
+Sidi Othmane,5.06,0,102278.0,Zone intermédiaire,🟢 Faible
+Ain Chock,4.82,0,147945.0,Centre-ville,🟢 Faible
+Moulay Rachid,4.81,0,183195.0,Centre-ville,🟢 Faible
+Bou Chentouf,4.01,0,165442.67,Centre-ville,🟢 Faible
+Hay Mohammadi,3.88,10,106843.22,Centre-ville,🟢 Faible
+Assoukhour Assawda,3.52,12,120479.88,Centre-ville,🟢 Faible
+Al Idrissia,3.49,0,109565.0,Centre-ville,🟢 Faible
+Ben Msick,3.29,0,134933.81,Centre-ville,🟢 Faible
+Al Fida,3.18,2,155982.38,Centre-ville,🟢 Faible
+Moulay Youssef,2.86,0,88758.47,Centre-ville,🟢 Faible

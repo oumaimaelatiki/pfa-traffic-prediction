@@ -1,0 +1,11 @@
+﻿Variable,Description,Type,Source
+Commune,Nom de la commune,Texte,Données GPS
+Day,Jour de la semaine (Monday-Sunday),Texte,Données GPS
+H0-H23,Distance moyenne par heure (en km),Numérique,Données GPS
+ZIP_code,Code postal,Numérique,Données statiques
+Population,Population totale,Numérique,Données statiques
+Households,Nombre de ménages,Numérique,Données statiques
+Tram_Stations,Nombre de stations de tram,Numérique,Données statiques
+Primary_Roads,Km de routes primaires,Numérique,Données statiques
+Secondary_Roads,Km de routes secondaires,Numérique,Données statiques
+Avg_Distance_km,Distance moyenne journalière (km),Numérique,Calculé
